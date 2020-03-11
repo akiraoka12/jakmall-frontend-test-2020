@@ -1,1 +1,1 @@
-# jakmall-frontend-test-2020
+# Jakmall Frontend Test 2020 - Project
